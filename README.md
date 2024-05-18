@@ -7,5 +7,6 @@ Code repository for the project "DNA methylation entropy is a biomarker for epig
 ### Scripts folder ###
 - contains all the necessary code to reproduce this experiment, along with code to produce the figures.
 
+The sequencing data can be found at [this link ](https://drive.google.com/drive/folders/1br48bruBny1aShHLbbXKrZ53NoHgO6qX?usp=sharing).
 
-Please direct any questions, along with requests to access .bam files, to jonathanchan@g.ucla.edu.
+Please direct any questions to jonathanchan@g.ucla.edu.
